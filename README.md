@@ -10,6 +10,14 @@
 - 📫 How to reach me: https://www.linkedin.com/in/joão-pedro-gershenson-costa-bb0335199/ or through my site: https://jpgercc.github.io/portfolio/
   <br>
 </h3>
+
+<i>
+“
+Who can say a machine has no soul?<br>
+Aren’t humans machines too?<br>
+Mechanisms of flesh and blood.
+"
+</i> <b>~ The Humanoid (1986) </b>
 <!---
 jpgercc/jpgercc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
