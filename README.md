@@ -2,22 +2,23 @@
 
 <h1 align="left"> 👋 Hi, I’m João Pedro G. Costa </h1>
 
-```
+<h4>
 - 👀 I’ve seen HTML, JAVASCRIPT, CSS, PYTHON, JAVA AND SQL ...
 
 - 🌱 I’m currently learning SQL and JAVA...
 
 - 💞️ I’m looking to collaborate on ANYTHING I CAN!...
 
-- 📫 [Linkedin](https://shorturl.at/fstwx)
-
-- 📫 [Portfolio Web Page](https://jpgercc.github.io/portfolio/)
-```
 ## Contact
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/joão-pedro-gershenson-costa-bb0335199/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jpgercc-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+<a href="https://jpgercc.github.io/portfolio/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/My Web Page-05122A?style=flat&logo=site" alt="linkedin"/>
+</a>
+<h4>
+
 <br>
 <i>
 “
