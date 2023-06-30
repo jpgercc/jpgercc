@@ -9,9 +9,9 @@
 
 - 💞️ I’m looking to collaborate on ANYTHING I CAN!...
 
-- 📫 Linkedin: https://www.linkedin.com/in/joão-pedro-gershenson-costa-bb0335199/ 
+- 📫 [Linkedin](https://shorturl.at/fstwx)
 
-- 📫 Portfolio Web Page: https://jpgercc.github.io/portfolio/
+- 📫 [Portfolio Web Page](https://jpgercc.github.io/portfolio/)
 ```
 
 <i>
