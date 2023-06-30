@@ -22,7 +22,8 @@ Mechanisms of flesh and blood.
 "
 </i> <b>~ The Humanoid (1986) </b>
 <br>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?jpgercc=jpgercc&layout=compact" alt="maykbrito's stats"/>
+
+<img width="530em" src="https://github.com/jpgercc/github-readme-stats)" alt="jpgercc's stats"/>
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpgercc&color=yellow" alt="Profile views" /> </p>
 
