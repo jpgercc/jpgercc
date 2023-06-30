@@ -10,7 +10,7 @@
 
 - 💞️ I’m looking to collaborate on ANYTHING I CAN!...
 
-## Contacs
+## Contacts
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/joão-pedro-gershenson-costa-bb0335199/" target="_blank">
