@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/jpgercc/cb63a0f7875b138711675d4da8ab4a81/raw/18307d4ca3fd4e3bfaf6ab8a9a8aacca54e4b286/githubcard.svg"/>
+<img align="right" height="775em" src="https://raw.githubusercontent.com/gist/jpgercc/cb63a0f7875b138711675d4da8ab4a81/raw/18307d4ca3fd4e3bfaf6ab8a9a8aacca54e4b286/githubcard.svg"/>
 
 <h1 align="left"> 👋 Hi, I’m João Pedro G. Costa </h1>
 
@@ -21,18 +21,21 @@
     <img src="https://img.shields.io/badge/My Web Page-05122A?style=flat&logo=html5" alt="linkedin"/>
   </a>
 </p>
+
 ##
 
 <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgercc&langs_count=8" alt="jpgercc's stats"/>
 
 <br>
 <i>
+  <p align="center">
 “
 Who can say a machine has no soul?<br>
 Aren’t humans machines too?<br>
 Mechanisms of flesh and blood.
-"
-</i> <b>~ The Humanoid (1986) </b>
+" 
+</i> <br>
+<b>~ The Humanoid (1986) ~</b> </p>
 
 
 <!---
