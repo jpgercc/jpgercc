@@ -15,7 +15,7 @@
 ```
 ## Contact
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/jpgercc" target="_blank">
+<a href="https://www.linkedin.com/in/joão-pedro-gershenson-costa-bb0335199/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-jpgercc-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <br>
