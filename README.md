@@ -1,4 +1,4 @@
-<img align="right" height="765em" src="https://raw.githubusercontent.com/gist/jpgercc/cb63a0f7875b138711675d4da8ab4a81/raw/18307d4ca3fd4e3bfaf6ab8a9a8aacca54e4b286/githubcard.svg"/>
+<img align="right" height="735em" src="https://raw.githubusercontent.com/gist/jpgercc/cb63a0f7875b138711675d4da8ab4a81/raw/18307d4ca3fd4e3bfaf6ab8a9a8aacca54e4b286/githubcard.svg"/>
 
 <h1 align="left"> 👋 Hi, I’m João Pedro G. Costa </h1>
 
