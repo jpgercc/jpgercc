@@ -13,7 +13,12 @@
 
 - 📫 [Portfolio Web Page](https://jpgercc.github.io/portfolio/)
 ```
-
+## Contact
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/jpgercc" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-jpgercc-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<br>
 <i>
 “
 Who can say a machine has no soul?<br>
