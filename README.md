@@ -1,7 +1,5 @@
 ![Alt Text](./assets/welcome.gif)
 
-<img align="right" height="712em" src="https://raw.githubusercontent.com/gist/jpgercc/cb63a0f7875b138711675d4da8ab4a81/raw/18307d4ca3fd4e3bfaf6ab8a9a8aacca54e4b286/githubcard.svg"/>
-
 <h1 align="left"> 👋 Hi, I’m João Pedro G. Costa </h1>
 
 <h4>
@@ -26,11 +24,14 @@
 
 ##
 
+<div align="center">
 <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgercc&langs_count=8" alt="jpgercc's stats"/>
 
+
+<br>
 <br>
 <i>
-  <p align="center">
+  <p>
 “
 Who can say a machine has no soul?<br>
 Aren’t humans machines too?<br>
@@ -38,11 +39,13 @@ Mechanisms of flesh and blood.
 " 
 </i> <br>
 <b>~ The Humanoid (1986) ~</b> </p>
+</div>
 
 
 <!---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpgercc&color=yellow" alt="Profile views" /> </p>
+<img align="right" height="712em" src="https://raw.githubusercontent.com/gist/jpgercc/cb63a0f7875b138711675d4da8ab4a81/raw/18307d4ca3fd4e3bfaf6ab8a9a8aacca54e4b286/githubcard.svg"/> GITHUB CARD
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpgercc&color=yellow" alt="Profile views" /> </p> 
 
 jpgercc/jpgercc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> 
