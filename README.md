@@ -1,7 +1,7 @@
 ![Alt Text](./assets/welcome.gif)
 ---
 <img src="./assets/HandEmoji.gif" alt="Alt Text" width="35" height="35" align="left">
-<h1 align="left">Hi, I'm João Pedro G. Costa</h1>
+<h1 align="left">Hi, I'm João Pedro Gershenson Costa</h1>
 
 <h4>
   
