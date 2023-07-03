@@ -4,6 +4,7 @@
 <h1 align="left">Hi, I'm João Pedro G. Costa</h1>
 
 <h4>
+  
 - 👀 I’ve seen HTML, JAVASCRIPT, CSS, PYTHON, JAVA AND SQL ...
 
 - 🌱 I’m currently learning SQL and JAVA...
