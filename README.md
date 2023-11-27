@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-Linkedin Profile-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   
-  <a href="https://jpgercc.github.io/portfolio/" target="_blank">
+  <a href="https://portfolio-jpgercc.vercel.app/index.html" target="_blank">
     <img src="https://img.shields.io/badge/My Web Page-05122A?style=flat&logo=html5" alt="linkedin"/>
   </a>
 </p>
