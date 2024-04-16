@@ -5,7 +5,7 @@
   
 - 👀 I’ve seen HTML/CSS, JAVASCRIPT, CSS, PYTHON, JAVA AND SQL, TERMINAL S.O basics (Linux Shell / CMD) ...
 
-- 🌱 I’m currently learning COMPUTER NETWORKS, DATA STRUCTURE...
+- 🌱 I’m currently focusing on front-end personal project...
 
 - 💞️ I’m looking to collaborate on ANYTHING I CAN!...
 
@@ -26,7 +26,7 @@
 <div align="center">
 <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgercc&langs_count=8" alt="jpgercc's stats"/>
 
-
+<!--
 <br>
 <br>
 <i>
@@ -38,6 +38,7 @@ Mechanisms of flesh and blood.
 " 
 </i> <br>
 <b>~ The Humanoid (1986) ~</b> </p>
+-->
 </div>
 
 <picture>
