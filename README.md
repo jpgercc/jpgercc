@@ -47,6 +47,7 @@ Mechanisms of flesh and blood.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jpgercc/jpgercc/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p><i>“Who can say a machine has no soul?  Aren’t humans machines too? <br>Mechanisms of flesh and blood."</i></p>
 <!---
 <img align="right" height="712em" src="https://raw.githubusercontent.com/gist/jpgercc/cb63a0f7875b138711675d4da8ab4a81/raw/18307d4ca3fd4e3bfaf6ab8a9a8aacca54e4b286/githubcard.svg"/> GITHUB CARD
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpgercc&color=yellow" alt="Profile views" /> </p> 
