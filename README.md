@@ -38,18 +38,11 @@ Mechanisms of flesh and blood.
 </i> <br>
 <b>~ The Humanoid (1986) ~</b> </p>
 -->
-</div>
-
-<img src="https://raw.githubusercontent.com/jpgercc/jpgercc/output/snake.svg" alt="Snake animation" />
-
-###
----
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-
 <p>“Who can say a machine has no soul? Aren’t humans machines too? Mechanisms of flesh and blood." </i> <b> ~ The Humanoid (1986)</b> </p>
+
+---
+
+
 <!---
 <img align="right" height="712em" src="https://raw.githubusercontent.com/gist/jpgercc/cb63a0f7875b138711675d4da8ab4a81/raw/18307d4ca3fd4e3bfaf6ab8a9a8aacca54e4b286/githubcard.svg"/> GITHUB CARD
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpgercc&color=yellow" alt="Profile views" /> </p> 
