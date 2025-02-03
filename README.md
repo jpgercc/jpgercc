@@ -40,11 +40,14 @@ Mechanisms of flesh and blood.
 -->
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpgercc/jpgercc/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpgercc/jpgercc/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/jpgercc/jpgercc/output/snake.svg" alt="Snake animation" />
-</picture>
+<img src="https://raw.githubusercontent.com/jpgercc/jpgercc/output/snake.svg" alt="Snake animation" />
+
+###
+---
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
 
 <p>“Who can say a machine has no soul? Aren’t humans machines too? Mechanisms of flesh and blood." </i> <b> ~ The Humanoid (1986)</b> </p>
 <!---
