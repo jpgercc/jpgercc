@@ -1,7 +1,7 @@
 ![Alt Text](./assets/welcome.gif)
 ---
 <img src="./assets/HandEmoji.gif" alt="Alt Text" width="35" height="35" align="left">
-<h1 align="left">Hi, I'm João Pedro Gershenson Costa</h1>
+<h1 align="left">Hi, I'm João Pedro G. C.</h1>
   
 - 👀 I’ve seen things... Also; Python, Java, SQL, TERMINAL (Linux Shell / CMD) ...
 
@@ -12,7 +12,7 @@
 ## Contact Me
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/joão-pedro-gershenson-costa-bb0335199/" target="_blank">
+  <a href="www.linkedin.com/in/jpgeco" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin Profile-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   
