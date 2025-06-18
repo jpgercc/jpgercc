@@ -38,8 +38,9 @@ Mechanisms of flesh and blood.
 </i> <br>
 <b>~ The Humanoid (1986) ~</b> </p>
 -->
+<!--
 <p>“Who can say a machine has no soul? Aren’t humans machines too? Mechanisms of flesh and blood." </i> <b> ~ The Humanoid (1986)</b> </p>
-
+-->
 ---
 
 
