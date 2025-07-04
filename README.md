@@ -1,4 +1,4 @@
-![Alt Text](./assets/welcome.gif)
+![Alt Text](./assets/home.gif)
 ---
 <img src="./assets/HandEmoji.gif" alt="Alt Text" width="35" height="35" align="left">
 <h1 align="left">Hi, I'm João Pedro G. C.</h1>
