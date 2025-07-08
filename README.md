@@ -1,6 +1,5 @@
 <a href='https://universum-ten.vercel.app/index.html'> ![Alt Text](./assets/home.gif)</a>
 
----
 <img src="./assets/HandEmoji.gif" alt="Alt Text" width="35" height="35" align="left">
 <h1 align="left">Hi, I'm João Pedro G. C.</h1>
   
