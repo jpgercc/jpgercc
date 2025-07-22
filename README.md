@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-Linkedin Profile-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
   </a>
   <br>
-  <a href="https://universum-ten.vercel.app/" target="_blank">
+  <a href="https://portfolio-universe.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My Universe-05122A?style=social&logo=html5" alt="portfolio"/>
   </a>
 </p>
