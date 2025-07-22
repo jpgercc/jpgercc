@@ -25,6 +25,18 @@
 
 <div align="center">
 <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgercc&langs_count=8" alt="jpgercc's stats"/>
+  
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/jpgercc/jpgercc/output/github-contribution-grid-snake-dark.svg)
+
+
+<!--
+
+GITHUB STATS
+
+| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) |
+| -- | -- |
+
+-->
 
 <!--
 <br>
