@@ -10,14 +10,14 @@
 - 💞️ I’m looking to collaborate on ANYTHING I CAN!...
 
 ## Contact Me
-<br>
+
 <p align="center">
   <a href="www.linkedin.com/in/jpgeco" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin Profile-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/-Linkedin Profile-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
   </a>
-  
+  <br>
   <a href="https://universum-ten.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My Web Page-05122A?style=flat&logo=html5" alt="portfolio"/>
+    <img src="https://img.shields.io/badge/My Universe-05122A?style=social&logo=html5" alt="portfolio"/>
   </a>
 </p>
 
