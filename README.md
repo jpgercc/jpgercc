@@ -24,7 +24,7 @@
 ##
 
 <div align="center">
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgercc&langs_count=8" alt="jpgercc's stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jpgercc&langs_count=8" />
   
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/jpgercc/jpgercc/output/github-contribution-grid-snake-dark.svg)
 
