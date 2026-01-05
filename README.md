@@ -9,6 +9,14 @@
 
 - 💞️ I’m looking to collaborate ...
 
+<h3 align="center">
+  Check my curated repos at 
+  <a href="https://codeberg.org/jpgercc" target="_blank">
+    <img src="https://img.shields.io/badge/Codeberg-2185D0?style=plastic&logo=codeberg&logoColor=white" alt="codeberg"/>
+  </a>
+</h3>
+
+
 ## Contact Me
 
 <p align="center">
@@ -20,14 +28,6 @@
     <img src="https://img.shields.io/badge/My Universe-05122A?style=for-the-badge&logo=html5" alt="portfolio"/>
   </a>
 </p>
-
-<p align="center">
-  Check my curated repos at 
-  <a href="https://codeberg.org/jpgercc" target="_blank">
-    <img src="https://img.shields.io/badge/Codeberg-2185D0?style=plastic&logo=codeberg&logoColor=white" alt="codeberg"/>
-  </a>
-</p>
-
 ##
 
 <div align="center">
@@ -36,38 +36,3 @@
   
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/jpgercc/jpgercc/output/github-contribution-grid-snake-dark.svg)
 
-
-<!--
-
-GITHUB STATS
-
-| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) |
-| -- | -- |
-
--->
-
-<!--
-<br>
-<br>
-<i>
-“
-Who can say a machine has no soul?<br>
-Aren’t humans machines too?<br>
-Mechanisms of flesh and blood.
-" 
-</i> <br>
-<b>~ The Humanoid (1986) ~</b> </p>
--->
-<!--
-<p>“Who can say a machine has no soul? Aren’t humans machines too? Mechanisms of flesh and blood." </i> <b> ~ The Humanoid (1986)</b> </p>
--->
----
-
-
-<!---
-<img align="right" height="712em" src="https://raw.githubusercontent.com/gist/jpgercc/cb63a0f7875b138711675d4da8ab4a81/raw/18307d4ca3fd4e3bfaf6ab8a9a8aacca54e4b286/githubcard.svg"/> GITHUB CARD
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpgercc&color=yellow" alt="Profile views" /> </p> 
-
-jpgercc/jpgercc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
