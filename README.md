@@ -12,12 +12,19 @@
 ## Contact Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/jpgeco" target="_blank">
+  <a href="https://www.linkedin.com/in/jpgeco" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin Profile-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
   </a>
   <br>
   <a href="https://portfolio-universe.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My Universe-05122A?style=social&logo=html5" alt="portfolio"/>
+    <img src="https://img.shields.io/badge/My Universe-05122A?style=for-the-badge&logo=html5" alt="portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  Check my curated repos at 
+  <a href="https://codeberg.org/jpgercc" target="_blank">
+    <img src="https://img.shields.io/badge/Codeberg-2185D0?style=plastic&logo=codeberg&logoColor=white" alt="codeberg"/>
   </a>
 </p>
 
