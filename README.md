@@ -17,7 +17,7 @@
 </h3>
 
 
-## Contact Me
+## Contact me at
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jpgeco" target="_blank">
@@ -28,7 +28,8 @@
     <img src="https://img.shields.io/badge/My Universe-05122A?style=for-the-badge&logo=html5" alt="portfolio"/>
   </a>
 </p>
-##
+
+## Most used languages
 
 <div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jpgercc&langs_count=8&hide=html" />
