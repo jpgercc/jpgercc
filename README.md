@@ -26,6 +26,7 @@
   <a href="https://portfolio-universe.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My Universe-05122A?style=for-the-badge&logo=html5" alt="portfolio"/>
   </a>
+  <br>
   <a href="https://codeberg.org/jpgercc" target="_blank">
     <img src="https://img.shields.io/badge/Codeberg-2185D0?style=plastic&logo=codeberg&logoColor=white" alt="codeberg"/>
   </a>
