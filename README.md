@@ -3,7 +3,7 @@
 <img src="./assets/HandEmoji.gif" alt="Alt Text" width="35" height="35" align="left">
 <h1 align="left">Hi, I'm João Pedro G. C.</h1>
   
-- 👀 I’ve seen things... Also; Python, Java, SQL, Terminal (Linux Shell / CMD) ...
+- 👀 I’ve seen things... Also; SQL, NoSQL, Terminal (Linux Shell / CMD)...
 
 - 🌱 I’m currently focusing on cross-platform applications and automation scripts (with or without webscrap)...
 
@@ -22,19 +22,16 @@
 
 ## Contact me at
 <p align="center">
-  <a href="https://www.linkedin.com/in/jpgeco" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin Profile-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
-  </a>
   <br>
   <a href="https://portfolio-universe.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My Universe-05122A?style=for-the-badge&logo=html5" alt="portfolio"/>
   </a>
-</p>
-
-<h3 align="center">
-  Check my
   <a href="https://codeberg.org/jpgercc" target="_blank">
     <img src="https://img.shields.io/badge/Codeberg-2185D0?style=plastic&logo=codeberg&logoColor=white" alt="codeberg"/>
   </a>
-</h3>
+</p>
+
+
+
+
   
