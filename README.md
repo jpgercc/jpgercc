@@ -29,11 +29,13 @@
   </a>
 </p>
 
-## Most used languages
-
-<div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jpgercc&langs_count=8&hide=html,css,scss,less,typescript,ejs,handlebars,shell,dockerfile,c++" />
-
+## Most used stacks
+<ul>
+  Python (Flask)
+  JavaScript (Node.js)
+  Java (Spring)
+  Dart (Flutter)
+</ul>
   
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/jpgercc/jpgercc/output/github-contribution-grid-snake-dark.svg)
 
