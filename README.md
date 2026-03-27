@@ -20,7 +20,7 @@
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/jpgercc/jpgercc/output/github-contribution-grid-snake-dark.svg)
 
 
-## Contact me at
+## Find me at
 <p align="center">
   <br>
   <a href="https://portfolio-universe.vercel.app/" target="_blank">
