@@ -6,12 +6,11 @@
 <div align="center">
   <em>
     <a href="https://github.com/jpgercc">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=A+Passionate+Full+Stack+Developer" alt="SVG text"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Logic+constrains+machines%3B+the+mind+defines+the+logic" alt="SVG text"/>
     </a>
   </em> 
-
 </div>
-  
+
 - 👀 I’ve seen SQL, Terminal (Linux Shell / CMD)
 
 - 🌱 I’m currently focusing on cross-platform applications and automation scripts
