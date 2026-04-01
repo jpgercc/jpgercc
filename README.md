@@ -6,7 +6,7 @@
 <div align="center">
   <em>
     <a href="https://github.com/jpgercc">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Logic+constrains+machines%3B+Mind+defines+the+logic" alt="SVG text"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Logic+constrains+machines%3B+Mind+defines+logic" alt="SVG text"/>
     </a>
   </em> 
 </div>
