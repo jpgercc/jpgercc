@@ -13,7 +13,7 @@
 
 - 👀 I’ve seen things...
 
-- 🌱 I’m currently focusing on cross-platform applications and automation scripts
+- 🌱 I’m currently focusing on cross-platform applications and architecture designing
 
 - 💞️ I’m looking to collaborate!
 
