@@ -11,12 +11,13 @@
   </em> 
 </div>
 
-- 👀 I’ve seen SQL, Terminal (Linux Shell / CMD)
+- 👀 I’ve seen things...
 
 - 🌱 I’m currently focusing on cross-platform applications and automation scripts
 
-- 💞️ I’m looking to collaborate
+- 💞️ I’m looking to collaborate!
 
+<!--
 ## Most used stacks
 <ul>
   <li>Python (Flask)</li>
@@ -32,7 +33,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpgercc/jpgercc/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jpgercc/jpgercc/output/pacman-contribution-graph.svg">
 </picture>
-
+-->
 <!-- rm main.yaml content
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/jpgercc/jpgercc/output/github-contribution-grid-snake-dark.svg)
 -->
